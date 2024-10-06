@@ -29,9 +29,7 @@
 - **HTML5**: Building structured web pages.
 - **CSS3**: Crafting responsive and visually appealing designs.
 - **JavaScript**: Adding interactivity and dynamic features.
-- **React**: Developing modern web applications.
-- **Node.js**: Backend development and API integration.
-- **Git**: Version control and collaboration.
+<<< And Other Skills >>>
 
 ---
 
@@ -48,7 +46,7 @@
 Feel free to reach out to me for collaborations or inquiries:
 
 - **Email**: <<< your Email >>>
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [Your GitHub Profile](<<< URL >>>)
+- **LinkedIn**: [Your LinkedIn Profile](<<< URL >>>)
 
 ---
